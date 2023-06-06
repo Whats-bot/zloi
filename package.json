@@ -15,16 +15,16 @@
 "test": "node test.js",
 "test2": "nodemon index.js" },
     
-"homepage": "https://github.com/elrebelde21/The-LoliBot-MD",
+"homepage": "https://github.com/Whats-bot/zloi",
 "author": {
 "name": "elrebelde21" }, 
     
 "repository": {
 "type": "git",
- "url": "git+https://github.com/elrebelde21/The-LoliBot-MD.git" },
+ "url": "git+https://github.com/Whats-bot/zloi" },
  
 "bugs": {
-"url": "https://github.com/elrebelde21/The-LoliBot-MD/issues" },
+"url": "https://github.com/Whats-bot/zloi/issues" },
 "license": "GPL-3.0-or-later",
 "dependencies": {
   "@adiwajshing/baileys": "npm:baileys@^6.0.9",
