@@ -12,25 +12,14 @@ import { en, es, id, ar, pt } from './lib/idiomas/total-idiomas.js'
 //⊱ ━━━━━.⋅ Añada los numeros a ser Propietario/a ⋅.━━━━ ⊰  
 
 global.owner = [ 
-  ['5492266466080', '𝙇𝙤𝙡𝙞𝘽𝙤𝙩-𝙈𝘿', true],
-  ['573183650526', '𝙇𝙤𝙡𝙞𝘽𝙤𝙩-𝙈𝘿', true],
-  ['593968585383'],
-  ['972529277518'], 
-  ['5217441745001'], 
-  ['50495745934'],
-  ['59894808483'],
-  ['595992302861'],
-  ['51957041866'],
-  ['5492266613038'],
-  ['5214531106422'],
-  ['5519999394991'],
-  ['5214531173598']
+  ['79524197466', 'ZloiBoT', true],
+  ['79524197466', 'ZloiBoT', true],
 ]
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
-global.mods = ['50495745934'] 
-global.prems = ['972529277314'],  
+global.mods = ['795241974466'] 
+global.prems = ['79524197466'],  
    
   
 //⊱ ━━━━━.⋅ IDIOMA : LENGUAJE ⋅.━━━━ ⊰ 
@@ -104,39 +93,39 @@ global.moment = moment
 
 //⊱ ━━━━━.⋅ Sticker WM ⋅.━━━━ ⊰
 
-global.packname = '𝙏𝙤𝙢𝙖 𝙩𝙪 𝙨𝙩𝙞𝙘𝙠𝙚𝙧'
-global.author = '𝙇𝙤𝙡𝙞𝘽𝙤𝙩-𝙈𝘿'
+global.packname = 'Стикеры от ZloiBoT '
+global.author = 'ZloiBoT'
 
 //⊱ ━━━━━.⋅ Versión | Nombre | cuentas ⋅.━━━━ ⊰
 
 global.vs = '1.4.9'
-global.lb = '𝙏𝙝𝙚 𝙇𝙤𝙡𝙞𝘽𝙤𝙩-𝙈𝘿'
-global.yt = 'https://www.youtube.com/@TheLoliBot-MD'
-global.ig = 'https://www.tiktok.com/@thelolibot_md'
-global.md = 'https://github.com/elrebelde21/The-LoliBot-MD'
-global.fb = 'https://www.facebook.com/groups/872989990425789/'
+global.lb = 'ZloiBoT'
+global.yt = 'https://chat.whatsapp.com/FQ4gui0wUTO94zgP2YUbsH'
+global.ig = 'https://chat.whatsapp.com/FQ4gui0wUTO94zgP2YUbsH'
+global.md = 'https://chat.whatsapp.com/FQ4gui0wUTO94zgP2YUbsH'
+global.fb = 'https://chat.whatsapp.com/FQ4gui0wUTO94zgP2YUbsH'
 
-global.nna = 'https://chat.whatsapp.com/JESaesjOEcB6wnGX0QYT9o' //Actualización, información sobre el bot
-global.nn = 'https://chat.whatsapp.com/LqNaWf43DE7JcANaaJczHL' //Grupo 1
-global.nnn = 'https://chat.whatsapp.com/GUlSx2eoanhBPssKzuA48c' //Grupo 2
-global.nnnt = 'https://chat.whatsapp.com/CcJKHrxGBWAAH3PiBL07JS' //Grupo del Colaboracion
-global.nnntt = 'https://chat.whatsapp.com/KLpYFsitkgzJ15YQxZrBqO' //Grupo COL 2 
-global.nnnttt = 'https://chat.whatsapp.com/DQzurVwUv6R1QC1rCK4QPb' //enlace lolibot
-global.nnntttt = 'https://chat.whatsapp.com/FRkr7jJHSJA5OjVtE64dDs' //Grupo ayuda sobre el bot
-global.asistencia = 'Wa.me/5492266466080' //Dudas? escríbeme...
+global.nna = 'https://chat.whatsapp.com/FQ4gui0wUTO94zgP2YUbsH' //Actualización, información sobre el bot
+global.nn = 'https://chat.whatsapp.com/FQ4gui0wUTO94zgP2YUbsH' //Grupo 1
+global.nnn = 'https://chat.whatsapp.com/FQ4gui0wUTO94zgP2YUbsH' //Grupo 2
+global.nnnt = 'https://chat.whatsapp.com/FQ4gui0wUTO94zgP2YUbsH' //Grupo del Colaboracion
+global.nnntt = 'https://chat.whatsapp.com/FQ4gui0wUTO94zgP2YUbsH' //Grupo COL 2 
+global.nnnttt = 'https://chat.whatsapp.com/FQ4gui0wUTO94zgP2YUbsH' //enlace lolibot
+global.nnntttt = 'https://chat.whatsapp.com/FQ4gui0wUTO94zgP2YUbsH' //Grupo ayuda sobre el bot
+global.asistencia = 'Wa.me/79524197466' //Dudas? escríbeme...
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
 
 //⊱ ━━━━━━━━━━━━━.⋅ Datos ⋅.━━━━━━━━━━━━━━ ⊰
 
-global.rg = '╰⊱✅⊱ *𝙍𝙚𝙨𝙪𝙡𝙩𝙖𝙙𝙤𝙨* ⊱✅⊱╮\n\n'
+global.rg = '╰⊱✅⊱ *РЕЗУЛЬТАТЫ* ⊱✅⊱╮\n\n'
 global.resultado = rg
-global.ag = '╰⊱⚠️⊱ *𝘼𝙙𝙫𝙚𝙧𝙩𝙚𝙣𝙘𝙞𝙖* ⊱⚠️⊱╮\n\n'
+global.ag = '╰⊱⚠️⊱ *ВНИМАНИЕ* ⊱⚠️⊱╮\n\n'
 global.advertencia = ag
-global.iig = '╰⊱❕⊱ *𝙄𝙣𝙛𝙤𝙧𝙢𝙖𝙘𝙞𝙤𝙣* ⊱⊱╮\n\n'
+global.iig = '╰⊱❕⊱ *ИНФОРМАЦИЯ* ⊱⊱╮\n\n'
 global.informacion = iig
-global.fg = '╰⊱❌⊱ *𝙀𝙧𝙧𝙤𝙧* ⊱❌⊱╮\n\n'
+global.fg = '╰⊱❌⊱ *ОШИБКА* ⊱❌⊱╮\n\n'
 global.fallo = fg
 global.mg = '╰⊱❗️⊱ *𝙇𝙤 𝙪𝙨𝙤 𝙢𝙖𝙡* ⊱❗️⊱╮\n\n'
 global.mal = mg
